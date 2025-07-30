@@ -28,4 +28,4 @@ Este projeto é uma aplicação simples de **Amigo Secreto** desenvolvida com **
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/emerson16inacio/challenge-amigo-secreto_pt/tree/main
+   git clone https://github.com/emerson16inacio/challenge-amigo-secreto_pt.git
